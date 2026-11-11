@@ -1,0 +1,22 @@
+[
+    {
+        "Breed":"Border Collie",
+        "Intelligence Percentile":100.0,
+        "Suitability for Children":"Low"
+    },
+    {
+        "Breed":"Golden Retriever",
+        "Intelligence Percentile":96.55,
+        "Suitability for Children":"High"
+    },
+    {
+        "Breed":"German Shorthaired Pointer",
+        "Intelligence Percentile":93.9,
+        "Suitability for Children":"High"
+    },
+    {
+        "Breed":"Basenji",
+        "Intelligence Percentile":2.29,
+        "Suitability for Children":"Medium"
+    }
+]

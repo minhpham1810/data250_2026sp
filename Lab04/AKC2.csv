@@ -1,0 +1,88 @@
+Breed,type,our score,popularity,size,LIFETIME COST,INTELLIGENCE,LONGEVITY,SUITABILITY FOR CHILDREN
+Border Collie,herding,3.64,45,2,"$20,143",1,12.52,3
+Border Terrier,terrier,3.61,80,1,"$22,638",30,14.00,1
+Brittany,sporting,3.54,30,2,"$22,589",19,12.92,2
+Cairn Terrier,terrier,3.53,59,1,"$21,992",35,13.84,1
+Welsh Springer Spaniel,sporting,3.34,130,2,"$20,224",31,12.49,1
+English Cocker Spaniel,sporting,3.33,63,2,"$18,993",18,11.66,1
+Cocker Spaniel,sporting,3.3,27,1,"$24,330",20,12.50,1
+Papillon,toy,3.26,38,1,"$21,001",8,13.00,2
+Australian Cattle Dog,herding,3.25,60,2,"$20,395",10,11.67,3
+Siberian Husky,working,3.22,16,2,"$22,049",45,12.58,1
+Shetland Sheepdog,herding,3.22,20,1,"$21,006",6,12.53,1
+Lhasa Apso,non-sporting,3.21,62,1,"$22,031",68,13.92,1
+Affenpinscher,toy,3.2,139,1,"$18,333",37,11.42,2
+Dachshund,hound,3.19,9,1,"$20,113",49,12.63,3
+Miniature Schnauzer,terrier,3.19,12,1,"$20,087",12,11.81,2
+Chihuahua,toy,3.15,14,1,"$26,250",67,16.50,3
+Whippet,hound,3.11,57,2,"$20,976",51,12.87,2
+Australian Terrier,terrier,3.11,121,1,"$17,892",34,11.05,2
+English Springer Spaniel,sporting,3.09,29,2,"$21,946",13,12.54,1
+West Highland White Terrier,terrier,3.08,35,1,"$20,490",47,12.80,1
+Bedlington Terrier,terrier,3.07,134,1,"$22,107",40,13.51,2
+Poodle,non-sporting,3.04,8,2,"$21,237",2,11.95,2
+Pointer,sporting,3.03,115,3,"$24,445",43,12.42,1
+German Shorthaired Pointer,sporting,3.03,15,3,"$25,842",17,11.46,1
+Bichon Frise,non-sporting,3.03,39,1,"$19,735",45,12.21,1
+Tibetan Spaniel,non-sporting,3.02,114,1,"$25,549",46,14.42,1
+Labrador Retriever,sporting,2.97,1,2,"$21,299",7,12.04,1
+Pomeranian,toy,2.93,17,1,"$15,792",23,9.67,2
+Maltese,toy,2.93,23,1,"$19,084",59,12.25,3
+Shih Tzu,toy,2.93,11,1,"$21,152",70,13.20,1
+Australian Shepherd,herding,2.91,24,2,"$21,458",42,12.28,2
+Yorkshire Terrier,toy,2.85,5,1,"$20,701",27,12.60,3
+Irish Setter,sporting,2.84,70,3,"$20,323",35,11.63,1
+Pharaoh Hound,hound,2.81,151,2,"$21,047",37,11.83,2
+Samoyed,working,2.8,69,2,"$25,352",33,12.44,1
+Golden Retriever,sporting,2.8,4,2,"$21,447",4,12.04,1
+Brussels Griffon,toy,2.8,77,1,"$19,551",59,12.00,3
+Beagle,hound,2.79,3,1,"$19,468",73,12.30,1
+Chesapeake Bay Retriever,sporting,2.78,46,3,"$16,697",27,9.48,1
+Tibetan Terrier,non-sporting,2.75,86,1,"$20,336",62,12.31,2
+Gordon Setter,sporting,2.73,94,3,"$19,605",34,11.10,1
+English Setter,sporting,2.72,87,3,"$20,312",37,11.57,1
+Pug,toy,2.72,26,2,"$18,527",57,11.00,1
+Briard,herding,2.71,125,3,"$19,673",30,11.17,1
+Norfolk Terrier,terrier,2.71,120,1,"$24,308",56,13.07,2
+Flat-Coated Retriever,sporting,2.7,90,2,"$16,000",18,9.02,1
+Boston Terrier,non-sporting,2.61,22,2,"$17,741",54,10.92,1
+Doberman Pinscher,working,2.59,13,3,"$18,397",5,10.33,2
+English Toy Spaniel,toy,2.59,129,1,"$17,521",45,10.10,2
+Belgian Tervuren,herding,2.57,108,3,"$19,132",14,10.60,1
+Dalmatian,non-sporting,2.57,73,2,"$19,886",39,11.27,1
+Cavalier King Charles Spaniel,toy,2.57,21,1,"$18,639",44,11.29,1
+Basset Hound,hound,2.54,41,1,"$18,328",71,11.43,1
+Basenji,hound,2.51,93,2,"$22,096",79,13.58,2
+Italian Greyhound,toy,2.49,65,1,"$16,463",60,10.02,3
+Staffordshire Bull Terrier,terrier,2.48,76,2,"$21,650",49,12.05,1
+Bouvier des Flandres,herding,2.47,83,3,"$18,959",29,10.34,1
+Pembroke Welsh Corgi,herding,2.45,25,1,"$23,978",11,12.25,1
+Clumber Spaniel,sporting,2.44,133,2,"$18,084",37,10.00,1
+Dandie Dinmont Terrier,terrier,2.42,160,1,"$21,633",62,12.17,1
+Saluki,hound,2.41,117,2,"$24,866",43,12.00,1
+Giant Schnauzer,working,2.38,95,3,"$26,686",28,10.00,2
+Greyhound,hound,2.29,140,3,"$15,819",46,9.36,1
+Scottish Terrier,terrier,2.27,54,1,"$17,525",65,10.69,2
+Rottweiler,working,2.24,10,3,"$18,886",9,9.11,2
+Kerry Blue Terrier,terrier,2.13,124,2,"$17,240",35,9.40,2
+Afghan Hound,hound,2.08,88,3,"$24,077",80,11.92,1
+Newfoundland,working,2.07,43,3,"$19,351",34,9.32,1
+German Shepherd,herding,2.06,2,3,"$17,416",3,9.73,2
+Pekingese,toy,2.05,64,1,"$20,565",74,11.56,2
+Old English Sheepdog,herding,2.04,84,2,"$22,611",63,11.19,1
+Akita,working,1.95,47,3,"$20,994",54,10.16,3
+Rhodesian Ridgeback,hound,1.91,44,3,"$16,530",52,9.10,2
+French Bulldog,non-sporting,1.9,18,2,"$17,266",58,9.00,1
+Borzoi,hound,1.89,102,3,"$16,176",76,9.08,2
+Bernese Mountain Dog,working,1.85,34,3,"$16,099",22,7.56,1
+Bull Terrier,terrier,1.85,51,2,"$18,490",66,10.21,2
+Boxer,working,1.83,7,2,"$15,746",48,8.81,1
+Alaskan Malamute,working,1.82,58,3,"$21,986",50,10.67,2
+Chow Chow,non-sporting,1.76,68,2,"$15,898",77,9.01,2
+Irish Wolfhound,hound,1.66,79,3,"$18,435",41,6.94,1
+Bloodhound,hound,1.66,48,3,"$13,824",75,6.75,2
+Bullmastiff,working,1.64,40,3,"$13,936",69,7.57,1
+Mastiff,working,1.57,28,3,"$13,581",72,6.50,1
+Great Dane,working,1.53,19,3,"$14,662",48,6.96,1
+Saint Bernard,working,1.42,49,3,"$20,022",65,7.78,1
+Bulldog,non-sporting,0.99,6,2,"$13,479",78,6.29,2

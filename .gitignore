@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Archives / large data
+*.zip
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
